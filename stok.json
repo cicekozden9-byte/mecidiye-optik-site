@@ -1,0 +1,336 @@
+{
+ "guncelleme": "2026-11-07T12:02:45.486Z",
+ "adet": 24,
+ "urunler": [
+  {
+   "id": "ninety-nt02-c06",
+   "name": "Ninety NT02 C06",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/aa0ed54385fdaf00b0df5379e20712b8.jpg",
+   "images": [
+    "img/b7666a2659ec1d31b96422e9705c5f2e.jpg",
+    "img/0653aacf31e356559a92263a23bf8821.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 51-22-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt04-c0506",
+   "name": "Ninety NT04 C0506",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/88032b5dda881090e61180e10242a451.jpg",
+   "images": [
+    "img/a9a0bd180eaf7ce4d94bb721ee2e823c.jpg",
+    "img/f2292d0f4c1e672fac82b4a91099e619.jpg"
+   ],
+   "desc": "Füme çerçeve, siyah sap renkte plastik optik çerçeve. Ölçü 52-22-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt07-c0506",
+   "name": "Ninety NT07 C0506",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/c337e2042de4cef68d30df8019f2bbf0.jpg",
+   "images": [
+    "img/91d7d641e3450eec9cc9ed6e951cf008.jpg",
+    "img/9dea0001fe2c8e5db13fa646f510879b.jpg"
+   ],
+   "desc": "Füme çerçeve, siyah sap renkte plastik optik çerçeve. Ölçü 51-21-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt09-c0506",
+   "name": "Ninety NT09 C0506",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/839ab3503139ba56813ed41881afbd4c.jpg",
+   "images": [
+    "img/bbfdea4a157f6c3c4e6bda3d724206ec.jpg",
+    "img/713533285112f3178cadd800823be4a1.jpg"
+   ],
+   "desc": "Füme çerçeve, siyah sap renkte plastik optik çerçeve. Ölçü 56-20-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt09-c06",
+   "name": "Ninety NT09 C06",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/26f195d7bb2662df34a34c367316ab6b.jpg",
+   "images": [
+    "img/12e1a5344432e43337d4808674174542.jpg",
+    "img/e8ec211c70ff46c70657968d08b858da.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 56-20-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt109-c06",
+   "name": "Ninety NT109 C06",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/b5938f9dbb907b01e8ecc3273fdd2e6b.jpg",
+   "images": [
+    "img/b2a0fce41c6caab2a78df26774d0c29d.jpg",
+    "img/75261dcab3e183fee3e4bd26feae015f.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 48-20-139 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt11-c04",
+   "name": "Ninety NT11 C04",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/29dedb5810cc6b16771204b4add631f1.jpg",
+   "images": [
+    "img/b818da54e2d2f53619aa365009ac0704.jpg",
+    "img/60a0e52aad35f857acb799cafdee7250.jpg"
+   ],
+   "desc": "Kahverengi renkte plastik optik çerçeve. Ölçü 51-20-135 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt11-c0506",
+   "name": "Ninety NT11 C0506",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/91e4211f97b33b0d5c0a5cc131d442d9.jpg",
+   "images": [
+    "img/a38c16ae61f429dd39930912ae2eda75.jpg",
+    "img/9326b5e609eb4460a5a2add28c1fb7f5.jpg"
+   ],
+   "desc": "Füme çerçeve, siyah sap renkte plastik optik çerçeve. Ölçü 51-20-135 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt11-c06",
+   "name": "Ninety NT11 C06",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/10756a5b92de5b73ecedecb23449505a.jpg",
+   "images": [
+    "img/9a0b88f4c7e8853871922284bfaa5600.jpg",
+    "img/d41777bad69beec73266706361687a1e.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 51-20-135 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt28-c05",
+   "name": "Ninety NT28 C05",
+   "category": "kadin",
+   "tur": "optik",
+   "etiket": "Kadın Optik Çerçeve",
+   "img": "img/24eba25812a184cb20facf3e2be9247c.jpg",
+   "images": [
+    "img/10695a0e90f5a948a9e177f92d40a91e.jpg",
+    "img/017b94b06814b5ff4ffc00612f8413d4.jpg"
+   ],
+   "desc": "Füme renkte plastik optik çerçeve. Ölçü 51-19-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt30-c06",
+   "name": "Ninety NT30 C06",
+   "category": "kadin",
+   "tur": "optik",
+   "etiket": "Kadın Optik Çerçeve",
+   "img": "img/5645c6f37ff32183a543bf1f1f395fac.jpg",
+   "images": [
+    "img/50ca11cee16babe5362de15f31ed9cf0.jpg",
+    "img/04ac6fdf741db19546e8a6c4165b80dd.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 52-15-148 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt30-c42",
+   "name": "Ninety NT30 C42",
+   "category": "kadin",
+   "tur": "optik",
+   "etiket": "Kadın Optik Çerçeve",
+   "img": "img/b60b79c0f8cc31c89489771646f02dee.jpg",
+   "images": [
+    "img/b34693c01030945ddc3d494492303900.jpg",
+    "img/77ac1d30e4fee9914a01ab524b913f8a.jpg"
+   ],
+   "desc": "Küllü kahve renkte plastik optik çerçeve. Ölçü 52-15-148 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt31-c06",
+   "name": "Ninety NT31 C06",
+   "category": "kadin",
+   "tur": "optik",
+   "etiket": "Kadın Optik Çerçeve",
+   "img": "img/e42b0b6a72ac35aa3b8ccac2e1f0f968.jpg",
+   "images": [
+    "img/1aecdb4f7f3a6ea8e3b511d947d6f06f.jpg",
+    "img/6a0e18e4a3bf341dc0291b15ca8eec79.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 50-18-148 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt40-c06",
+   "name": "Ninety NT40 C06",
+   "category": "cocuk",
+   "tur": "optik",
+   "etiket": "Çocuk Optik Çerçeve",
+   "img": "img/ba9eca2ad0c1199deffdb1f20dde25e5.jpg",
+   "images": [
+    "img/e22d8d1ef7e871f3b56c57030341d0d0.jpg",
+    "img/4c9b0fc7b74a682e44844520235793db.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 48-18-130 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt43-c06",
+   "name": "Ninety NT43 C06",
+   "category": "cocuk",
+   "tur": "optik",
+   "etiket": "Çocuk Optik Çerçeve",
+   "img": "img/f731e4e3d9fa72b5f5d01f0d4d7fb598.jpg",
+   "images": [
+    "img/449bc254affdf7f4d36ed7f79881cb69.jpg",
+    "img/315b9c778282cc828cddeea8cd658fc7.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 43-17-125 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt43-c50",
+   "name": "Ninety NT43 C50",
+   "category": "cocuk",
+   "tur": "optik",
+   "etiket": "Çocuk Optik Çerçeve",
+   "img": "img/c6cc1cea0288cbcad73f29522f9f5836.jpg",
+   "images": [
+    "img/b214ba8f93265237b6da97555ee351fe.jpg",
+    "img/3a6363ddb90973af8685a5ac90f0e7ec.jpg"
+   ],
+   "desc": "Açık gri renkte plastik optik çerçeve. Ölçü 43-17-125 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt73-c0506",
+   "name": "Ninety NT73 C0506",
+   "category": "erkek",
+   "tur": "optik",
+   "etiket": "Erkek Optik Çerçeve",
+   "img": "img/55a1a46bdc76bddeb07b52a782f13d5d.jpg",
+   "images": [
+    "img/6f191619a272b420d84a9cee8c250534.jpg",
+    "img/170846cfe48c10961d76c39ec0db592b.jpg"
+   ],
+   "desc": "Füme çerçeve, siyah sap renkte plastik optik çerçeve. Ölçü 53-16-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt74-c06",
+   "name": "Ninety NT74 C06",
+   "category": "erkek",
+   "tur": "optik",
+   "etiket": "Erkek Optik Çerçeve",
+   "img": "img/5f9b2fac26680373dbd4ac2ad63517d6.jpg",
+   "images": [
+    "img/6a9f4aed5a689b4e1911c8b2b297c885.jpg",
+    "img/f0459574291a21ae0fb81682ee16f730.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 53-17-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt77-c50",
+   "name": "Ninety NT77 C50",
+   "category": "erkek",
+   "tur": "optik",
+   "etiket": "Erkek Optik Çerçeve",
+   "img": "img/946b56ea59660c09121ed1c2e037dc5f.jpg",
+   "images": [
+    "img/eb3ebbdcd88ebc50450e8167b5d38c06.jpg",
+    "img/97da8a06b46c3083c03b12df4feffea3.jpg"
+   ],
+   "desc": "Açık gri renkte plastik optik çerçeve. Ölçü 55-19-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt78-c06",
+   "name": "Ninety NT78 C06",
+   "category": "erkek",
+   "tur": "optik",
+   "etiket": "Erkek Optik Çerçeve",
+   "img": "img/d4eed2458d4b6e18271547257697b916.jpg",
+   "images": [
+    "img/7fe2d221d2cf81bb1bd96441fd2144bd.jpg",
+    "img/6d5bf97a835770692a66277b527d973a.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 59-18-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt98-c06",
+   "name": "Ninety NT98 C06",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/b53c754bd2b17fff199e4a191705ae17.jpg",
+   "images": [
+    "img/655d38d2659d5f7a4fe6d5dde940dd37.jpg",
+    "img/38c9a9383c742a517242b820b0f9d320.jpg"
+   ],
+   "desc": "Siyah renkte plastik optik çerçeve. Ölçü 52-19-140 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "ninety-nt99-c1m",
+   "name": "Ninety NT99 C1M",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/6dd7653af7fafbbd52f09aeb9a472684.jpg",
+   "images": [
+    "img/61abb6293e7613cce384593d4c4e8260.jpg",
+    "img/a21480b9ba36c405198112c85ccda2f2.jpg"
+   ],
+   "desc": "Kristal (şeffaf) renkte plastik optik çerçeve. Ölçü 55-21-145 (cam genişliği–köprü–sap, mm). Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "xqfkeorny23qxr28iuf2",
+   "name": "Pirloon Vintage Bayan C3 52",
+   "category": "kadin",
+   "tur": "optik",
+   "etiket": "Kadın Optik Çerçeve",
+   "img": "img/15a1f9e7d23f973a0c9492c39775eded.jpg",
+   "images": [],
+   "desc": "Optik çerçeve. Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  },
+  {
+   "id": "6p1q4kvegc6r4k8gx48y",
+   "name": "Rems Titanium Siyah 52 ekr",
+   "category": "unisex",
+   "tur": "optik",
+   "etiket": "Unisex Optik Çerçeve",
+   "img": "img/f14778afcfa0055cbb7c4e202c13f784.jpg",
+   "images": [],
+   "desc": "Optik çerçeve. Numaralı camlarınız göz doktoru reçetenize göre mağazamızda hazırlanır.",
+   "isNew": true
+  }
+ ]
+}
